@@ -1,6 +1,6 @@
 export class ContaSalario extends Conta {
-    constructor(saldoInicial, cliente, agencia) {
-        super(saldoInicial, cliente, agencia);
+    constructor(cliente, agencia) {
+        super(0, cliente, agencia);
     }
 
     sacar(valor) {
