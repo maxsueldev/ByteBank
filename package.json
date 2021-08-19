@@ -1,0 +1,20 @@
+{
+  "name": "bytebank",
+  "version": "1.0.0",
+  "description": "Aplicação para cadastro de clientes e contas para um banco fictício, usando JavaScript Orientado a Objetos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxsueldev/ByteBank.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maxsueldev/ByteBank/issues"
+  },
+  "homepage": "https://github.com/maxsueldev/ByteBank#readme",
+  "type": "module"
+}

@@ -4,5 +4,11 @@ export class Cliente {
     this._cpf = cpf;
   }
 
-  get cpf()
+  get cpf() {
+    return this._cpf;
+  }
+
+  get nome() {
+    return this._nome;
+  }
 }
